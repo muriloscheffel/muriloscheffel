@@ -5,6 +5,8 @@ Me chamo Murilo Scheffel Moraes, tenho 23 anos e sou natural de Porto Alegre, Ri
 
 Atualmente, estou no 4º semestre de Ciência da Computação na PUCRS, sempre buscando aprimorar meus conhecimentos e explorar novas oportunidades no desenvolvimento de software.
 
+Entre em contato comigo pelo meu email "[murilo.scheffel@outlook.com](murilo.scheffel@outlook.com)"
+<br/>
 Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffel/)"
 
 ---
