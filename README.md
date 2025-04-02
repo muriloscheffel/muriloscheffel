@@ -77,7 +77,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
+<! ---
 <img 
     align="left"
     alt="Github" 
@@ -86,6 +86,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+--->
 
 <img
     align="left"
