@@ -9,7 +9,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧾 Tecnologias
 
 <img 
     align="left"
@@ -98,7 +98,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Meu perfil
 
 <p>
   <img 
