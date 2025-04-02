@@ -1,4 +1,4 @@
-## 👨‍💻 Murilo Scheffel ✌️
+## 👨‍💻 Murilo Scheffel 👋
 **`Desenvolvedor`**
 
 Me chamo Murilo Scheffel Moraes, tenho 23 anos e sou natural de Porto Alegre, Rio Grande do Sul. Sou apaixonado por tecnologia e por utilizá-la para solucionar desafios de forma criativa e eficiente.
@@ -91,19 +91,18 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
 ### 📊 Estatísticas
 
 <p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=muriloscheffel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloscheffel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloscheffel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 </p>
