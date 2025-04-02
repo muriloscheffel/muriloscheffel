@@ -98,7 +98,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Meu perfil
 
 <p>
 <img 
@@ -106,7 +106,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=muriloscheffel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas Github" 
+    src="https://github-readme-stats.vercel.app/api?username=muriloscheffel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas" 
 />
 
 <img 
