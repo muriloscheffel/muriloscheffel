@@ -96,6 +96,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
     align="left" 
     alt="GitHub Stats" 
     width=45%
+    height="200" 
     src="https://github-readme-stats.vercel.app/api?username=muriloscheffel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&layout-compact" 
   />
 
