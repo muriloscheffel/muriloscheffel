@@ -63,7 +63,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
     alt="Docker" 
     title="Docker"
     width="30px" 
-    style="padding-right: 10px; display: inline-block;" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
           
@@ -73,7 +73,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px; display: inline-block" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
@@ -96,7 +96,8 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
     align="left" 
     alt="GitHub Stats" 
     width="450px"
-    height="200px" 
+    height="200px"
+    style="display: inline-block;"
     src="https://github-readme-stats.vercel.app/api?username=muriloscheffel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&layout-compact" 
   />
 
@@ -105,6 +106,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
       alt="GitHub Stats" 
       width="450px"
       height="200px" 
+    style="display: inline-block;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloscheffel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
