@@ -97,6 +97,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width=50%
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=muriloscheffel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&layout-compact" 
   />
@@ -105,6 +106,7 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      width=50%
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloscheffel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
