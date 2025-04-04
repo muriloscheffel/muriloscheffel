@@ -89,21 +89,4 @@ Mais informações no meu "[Linkedin](https://www.linkedin.com/in/murilo-scheffe
 <br/>
 <br/>
 
-### 📊 Meu perfil
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200px"
-    src="https://github-readme-stats.vercel.app/api?username=muriloscheffel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estatísticas&layout-compact" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloscheffel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-
-</p>
